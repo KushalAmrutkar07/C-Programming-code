@@ -18,4 +18,5 @@ int main()
  void fun()
 {
  printf("Inside fun\n");
+
 }
